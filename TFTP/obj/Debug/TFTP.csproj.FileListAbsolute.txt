@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\TFTP\TFTP\bin\Debug\TFTP.exe.config
+C:\Users\Alex\source\repos\TFTP\TFTP\bin\Debug\TFTP.exe
+C:\Users\Alex\source\repos\TFTP\TFTP\bin\Debug\TFTP.pdb
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.Properties.Resources.resources
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.exe
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.pdb
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.StartProgramm.resources
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.ServerForm.resources
+C:\Users\Alex\source\repos\TFTP\TFTP\bin\Debug\Tftp.Net.dll
+C:\Users\Alex\source\repos\TFTP\TFTP\bin\Debug\Tftp.Net.pdb
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.csproj.CopyComplete
+C:\Users\Alex\source\repos\TFTP\TFTP\obj\Debug\TFTP.ClientForm.resources

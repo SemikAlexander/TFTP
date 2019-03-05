@@ -1,0 +1,10 @@
+D:\Mega\студент\student\3 курс\2 семестр лабы\ПКС\Laba1\tftp\TFTP\Tftp.Net\bin\Debug\Tftp.Net.dll
+D:\Mega\студент\student\3 курс\2 семестр лабы\ПКС\Laba1\tftp\TFTP\Tftp.Net\bin\Debug\Tftp.Net.pdb
+D:\Mega\студент\student\3 курс\2 семестр лабы\ПКС\Laba1\tftp\TFTP\Tftp.Net\obj\Debug\Tftp.Net.csproj.CoreCompileInputs.cache
+D:\Mega\студент\student\3 курс\2 семестр лабы\ПКС\Laba1\tftp\TFTP\Tftp.Net\obj\Debug\Tftp.Net.dll
+D:\Mega\студент\student\3 курс\2 семестр лабы\ПКС\Laba1\tftp\TFTP\Tftp.Net\obj\Debug\Tftp.Net.pdb
+C:\Users\Alex\Desktop\Laba1\tftp\TFTP\Tftp.Net\bin\Debug\Tftp.Net.dll
+C:\Users\Alex\Desktop\Laba1\tftp\TFTP\Tftp.Net\bin\Debug\Tftp.Net.pdb
+C:\Users\Alex\Desktop\Laba1\tftp\TFTP\Tftp.Net\obj\Debug\Tftp.Net.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Laba1\tftp\TFTP\Tftp.Net\obj\Debug\Tftp.Net.dll
+C:\Users\Alex\Desktop\Laba1\tftp\TFTP\Tftp.Net\obj\Debug\Tftp.Net.pdb
